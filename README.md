@@ -2,7 +2,7 @@
 
 A reproducer for GraphQL exception when no setters in the model are present.
 
-Used in discussion _TBA_.
+Used in issue [https://github.com/smallrye/smallrye-graphql/issues/1387](https://github.com/smallrye/smallrye-graphql/issues/1387).
 
 ## Steps to reproduce
 
